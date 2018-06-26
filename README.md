@@ -2,6 +2,7 @@
 ## Synopsis
 A trivia game or competition is one where the competitors are asked questions about interesting but unimportant facts in many subjects.
 My trivia game is based on questions from the chess game world.
+
 The game is divided into two main parts - 
 
 * The client (Fronted) - written in C#
