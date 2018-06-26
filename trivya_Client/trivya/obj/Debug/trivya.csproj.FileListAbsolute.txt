@@ -1,0 +1,29 @@
+C:\Magsimim\cpp\Trivya\trivya\trivya\bin\Debug\trivya.exe.config
+C:\Magsimim\cpp\Trivya\trivya\trivya\bin\Debug\trivya.exe
+C:\Magsimim\cpp\Trivya\trivya\trivya\bin\Debug\trivya.pdb
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.csprojResolveAssemblyReference.cache
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.Form1.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.csproj.GenerateResource.Cache
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.exe
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.pdb
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.Form2.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.Form3.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.Form4.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Magsimim\cpp\Trivya\trivya\trivya\obj\Debug\trivya.ClientForm.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe.config
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.csprojResolveAssemblyReference.cache
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.ClientForm.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Form2.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Form3.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Form4.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.csproj.GenerateResource.Cache
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.menu.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.signUp.resources

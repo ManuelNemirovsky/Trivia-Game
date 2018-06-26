@@ -1,0 +1,83 @@
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe.config
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\TrivyaClient.csprojResolveAssemblyReference.cache
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.ClientForm.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.menu.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.signUp.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\TrivyaClient.csproj.GenerateResource.Cache
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.joinRoom.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.createRoom.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.game.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.WaitForGame.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\bin\Debug\trivya.exe.config
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\bin\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\bin\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.ClientForm.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.menu.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.game.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.createRoom.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.joinRoom.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.signUp.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.WaitForGame.resources
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\TrivyaClient.csproj.GenerateResource.Cache
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.exe
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\TrivyaClient\trivya\obj\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.scores.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe.config
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.exe
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.exe
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\bin\Debug\trivya.pdb
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.menu.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.game.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.createRoom.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.joinRoom.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.signUp.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.WaitForGame.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\TrivyaClient.csproj.GenerateResource.Cache
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\TrivyaClient.csprojResolveAssemblyReference.cache
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.MyStatus.resources
+C:\Magsimim\cpp\SEM_B\Trivya project\TrivyaClient\trivya\trivya\obj\Debug\trivya.Scores.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\bin\Debug\trivya.exe.config
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.exe
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.pdb
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\bin\Debug\trivya.exe
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\bin\Debug\trivya.pdb
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\TrivyaClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.Menu.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.Game.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.CreateRoom.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.JoinRoom.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.MyStatus.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.Properties.Resources.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.Scores.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.SignUp.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\trivya.WaitForGame.resources
+C:\Users\User\Desktop\פרויקט שחמט מגשימים - פתרונות\client_2.2\trivya\trivya\obj\Debug\TrivyaClient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\bin\Debug\trivya.exe.config
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.exe
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.pdb
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\TrivyaClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.CustomMessageBox.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.Menu.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.Game.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.CreateRoom.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.JoinRoom.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.MyStatus.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.Scores.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.SignUp.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.WaitForGame.resources
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\TrivyaClient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\bin\Debug\trivya.exe
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\bin\Debug\trivya.pdb
+C:\Users\User\Desktop\משחק טריוויה\trivya_Client\trivya\obj\Debug\trivya.Properties.Resources.resources

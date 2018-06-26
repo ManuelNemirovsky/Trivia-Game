@@ -1,0 +1,5 @@
+What is the biggest country in the world?,Russia,China,Australia,Japan,1
+What is The longest river in the world?,Amazon,Nile,Yangtze,Mississippi,2
+How many countries are in The usnited states?,52,55,70,50,4
+What is the capital city of Holand?,Utrecht,Hague,Amsterdam,Rotterdam,3
+What is the capital city of Israel?,Tel Aviv,Jerusalem,Haifa,Dimona,2
