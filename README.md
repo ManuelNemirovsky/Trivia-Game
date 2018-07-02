@@ -1,4 +1,4 @@
-# 5 Point Research Project - Trivia Game
+# 5 Points Research Project - Trivia Game
 ## Synopsis
 A trivia game or competition is one where the competitors are asked questions about interesting but unimportant facts in many subjects.
 My trivia game is based on questions from the chess game world.
