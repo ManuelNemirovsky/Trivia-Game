@@ -13,6 +13,6 @@ The game is divided into two main parts -
 
 ![picture alt](https://github.com/ManuelNemirovsky/Trivia-Game/blob/master/TRIVIA_UML.png)
 
-## Authors
+## Author
 
 * [Manuel Nemirovsky](https://github.com/ManuelNemirovsky/)
